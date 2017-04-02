@@ -1,1 +1,1 @@
-These are the data files for Assignment 4 from the Coursera course Applied Plotting, Charting, and Data Representation in Python
+These are the data files for Assignment 4 from the Coursera course Applied Plotting, Charting, and Data Representation in Python.  The Excel files were the files originally used, but the CSV files can be used for those looking to run a code that connects to GitHub for the data.
