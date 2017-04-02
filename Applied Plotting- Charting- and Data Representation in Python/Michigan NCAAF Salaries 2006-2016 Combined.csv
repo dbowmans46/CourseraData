@@ -1,0 +1,51 @@
+YEAR,COACH,SCHOOL PAY,OTHER,TOTAL,MAX BONUS,PRIOR YEAR?S BONUSES PAID,School
+2016,Jim Harbaugh,"$9,004,000 ",$0 ,"$9,004,000 ","$1,325,000 ",$0 ,University of Michigan
+2015,Jim Harbaugh,"$7,004,000 ",$0 ,"$7,004,000 ","$1,175,000 ",--,University of Michigan
+2014,Brady Hoke,"$2,854,000 ","$2,000 ","$2,856,000 ","$575,000 ",--,University of Michigan
+2013,Brady Hoke,"$4,154,000 ",$0 ,"$4,154,000 ","$550,000 ",--,University of Michigan
+2012,Brady Hoke,"$3,046,120 ",$0 ,"$3,046,120 ","$525,000 ",--,University of Michigan
+2011,Brady Hoke,"$3,254,000 ",$0 ,"$3,254,000 ","$500,000 ",--,University of Michigan
+2010,Rich Rodriguez,"$2,515,180 ","$10,100 ","$2,525,280 ","$300,000 ",--,University of Michigan
+2009,Rich Rodriguez,"$859,000 ","$1,662,000 ","$2,521,000 ","$300,000 ",--,University of Michigan
+2007,Lloyd Carr,"$687,884 ","$795,000 ","$1,482,884 ","$64,648 ",--,University of Michigan
+2006,Lloyd Carr,"$647,619 ","$807,000 ","$1,454,619 ","$84,373 ",--,University of Michigan
+2016,Mark Dantonio,"$4,300,000 ",$0 ,"$4,300,000 ","$650,000 ","$475,000 ",Michigan State
+2015,Mark Dantonio,"$3,671,520 ",$0 ,"$3,671,520 ","$650,000 ","$250,000 ",Michigan State
+2014,Mark Dantonio,"$5,611,845 ","$24,300 ","$5,636,145 ","$650,000 ",--,Michigan State
+2013,Mark Dantonio,"$1,959,744 ",$0 ,"$1,959,744 ","$650,000 ",--,Michigan State
+2012,Mark Dantonio,"$1,934,250 ",$0 ,"$1,934,250 ","$650,000 ",--,Michigan State
+2011,Mark Dantonio,"$1,918,000 ",$0 ,"$1,918,000 ","$650,000 ",--,Michigan State
+2010,Mark Dantonio,"$1,796,700 ",$0 ,"$1,796,700 ","$660,000 ",--,Michigan State
+2009,Mark Dantonio,"$827,260 ","$984,000 ","$1,811,260 ","$725,000 ",--,Michigan State
+2007,Mark Dantonio,"$600,000 ","$550,000 ","$1,150,000 ","$650,000 ",--,Michigan State
+2006,John L. Smith,"$645,834 ","$900,000 ","$1,545,834 ","$375,000 ",--,Michigan State
+2016,P.J. Fleck,"$816,360 ","$4,000 ","$820,360 ","$336,000 ","$128,500 ",Western Michigan
+2015,P.J. Fleck,"$800,000 ","$2,500 ","$802,500 ","$336,000 ","$78,750 ",Western Michigan
+2014,P.J. Fleck,"$392,500 ",$0 ,"$392,500 ","$236,000 ",--,Western Michigan
+2013,P.J. Fleck,"$392,500 ",$0 ,"$392,500 ","$236,000 ",--,Western Michigan
+2012,Bill Cubit,"$377,250 ","$2,000 ","$379,250 ","$251,500 ",--,Western Michigan
+2011,Bill Cubit,"$377,250 ","$2,000 ","$379,250 ","$251,500 ",--,Western Michigan
+2010,Bill Cubit,"$375,000 ","$2,000 ","$377,000 ","$251,500 ",--,Western Michigan
+2009,Bill Cubit,"$225,000 ","$154,000 ","$379,000 ","$223,000 ",--,Western Michigan
+2007,Bill Cubit,"$191,000 ","$75,000 ","$266,000 ","$222,000 ",--,Western Michigan
+2006,Bill Cubit,"$165,000 ","$23,000 ","$188,000 ","$21,450 ",--,Western Michigan
+2016,Chris Creighton,"$434,840 ",$0 ,"$434,840 ","$310,000 ",$0 ,Eastern Michigan
+2015,Chris Creighton,"$425,000 ",$0 ,"$425,000 ","$310,000 ",$0 ,Eastern Michigan
+2014,Chris Creighton,"$425,000 ",$0 ,"$425,000 ","$310,000 ",--,Eastern Michigan
+2013,Ron English,"$374,937 ",$0 ,"$374,937 ","$90,000 ",--,Eastern Michigan
+2012,Ron English,"$360,517 ",$0 ,"$360,517 ","$90,000 ",--,Eastern Michigan
+2011,Ron English,"$343,350 ",$0 ,"$343,350 ","$90,000 ",--,Eastern Michigan
+2010,Ron English,"$315,000 ","$1,000 ","$316,000 ","$90,000 ",--,Eastern Michigan
+2009,Ron English,"$275,000 ","$25,000 ","$300,000 ","$90,000 ",--,Eastern Michigan
+2007,Jeff Genyk,"$183,000 ","$13,000 ","$196,000 ","$86,000 ",--,Eastern Michigan
+2006,Jeff Genyk,"$141,442 ","$13,000 ","$154,442 ","$10,000 ",--,Eastern Michigan
+2016,John Bonamego,"$545,640 ",$300 ,"$545,940 ","$320,000 ","$43,500 ",Central Michigan
+2015,John Bonamego,"$533,500 ",$0 ,"$533,500 ","$330,000 ",--,Central Michigan
+2014,Dan Enos,"$360,000 ",$0 ,"$360,000 ","$305,000 ",--,Central Michigan
+2013,Dan Enos,"$360,000 ",$600 ,"$360,600 ","$224,000 ",--,Central Michigan
+2012,Dan Enos,"$325,000 ",$600 ,"$325,600 ","$133,000 ",--,Central Michigan
+2011,Dan Enos,"$325,000 ",$600 ,"$325,600 ","$125,500 ",--,Central Michigan
+2010,Dan Enos,"$350,000 ",$0 ,"$350,000 ","$125,500 ",--,Central Michigan
+2009,Butch Jones,"$277,950 ","$30,500 ","$308,450 ","$237,500 ",--,Central Michigan
+2007,Butch Jones,"$200,850 ","$65,000 ","$265,850 ","$140,000 ",--,Central Michigan
+2006,Brian Kelly,"$159,397 ","$25,500 ","$184,897 ","$14,500 ",--,Central Michigan
